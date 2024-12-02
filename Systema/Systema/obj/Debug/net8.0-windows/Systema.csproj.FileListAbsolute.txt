@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\prototipo_progra.Factura.resources
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\prototipo_progra.Bloqueo.resources
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\academica.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\prototipo_progra.Principal.resources
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\prototipo_progra.Registro_cliente.resources
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\Systema.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\Systema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\Systema.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\Systema.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\Systema.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\system.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Systema\Systema\obj\Debug\net8.0-windows\Systema.Properties.Resources.resources
